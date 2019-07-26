@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: i9/2LHDiGFEsNU9fiWms4ONLnUY=
+X-Android-APK-Signed: 1
+
+Name: res/drawable-hdpi-v4/ic_menu_search.png
+SHA1-Digest: mZ0EteQMdMI7zaWgGoNL85jypOo=
+
+Name: dexpro-build.properties
+SHA1-Digest: JodZiZeecLvaIbTHVCQ/r30i+lQ=
+
+Name: res/drawable-hdpi-v4/ic_menu_recent_history.png
+SHA1-Digest: wbZs3Bb8Ii3JEoqYVgjOzcrC1B4=
+
+Name: res/drawable/map_center.png
+SHA1-Digest: n2wkJMSLbHikJ+h5HMEdCIwChdo=
+
+Name: res/layout/main.xml
+SHA1-Digest: 6FI+dNLFdJXM4tj3PirykStPneU=
+
+Name: res/menu/menu.xml
+SHA1-Digest: +yhzuGxkb/bIaLbFe17UIefyg18=
+
+Name: assets/dexprotect/classes.dex.dat
+SHA1-Digest: /PNz5FT972q/IG15lFnjLVlvoMg=
+
+Name: res/xml/settings.xml
+SHA1-Digest: 1zvMLYyPcnXwW5vPlW7+ezkqGJw=
+
+Name: res/drawable-hdpi-v4/earth.png
+SHA1-Digest: Pimvy6y19Zp11+QVXURINKPbUiI=
+
+Name: res/layout/dialog_saved_locations.xml
+SHA1-Digest: LAAVJP0umjkDNbHb3SVaqeUmFvI=
+
+Name: res/drawable-hdpi-v4/globe.png
+SHA1-Digest: 5zFOoyTDWdsmk7o7MM4mwD87LGI=
+
+Name: res/drawable/globe_border.xml
+SHA1-Digest: 4bQw+V74ry2BpqCN2Jp6VkWxoOk=
+
+Name: res/drawable-hdpi-v4/ic_menu_star.png
+SHA1-Digest: JLSO1oSU5ctpXY/NDw4FLc/tQHE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: HwohdTGh9FqCiMUn6ei7LI3/qWY=
+
+Name: resources.arsc
+SHA1-Digest: TcCT0vPKPeHaVixdNmHvXUYO5KU=
+
+Name: res/layout/map_picker.xml
+SHA1-Digest: nbpUNERKzB8oxBitqTXyOLUfMVQ=
+
+Name: res/layout/history_item.xml
+SHA1-Digest: L/5rq7aukPovg7LWlP5m5XCzLfY=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: PCjf2KH+yy3LQLiygQvzIhvFoJw=
+
+Name: classes.dex
+SHA1-Digest: ny3lVH3JJXmn/8NTrCvsT/u6PL8=
+
+Name: res/drawable/icon.png
+SHA1-Digest: hC0WIPKvMXZQRx9votUUs09/if0=
+
+Name: res/drawable-hdpi-v4/map_mode.png
+SHA1-Digest: Bd7AlLb30ySJmRveDEiWhNU8YIY=
+
+Name: res/drawable/service_icon.png
+SHA1-Digest: disS5GZ9LZdXYnYoJbHYxojpkn0=
+
+Name: res/drawable/opaque_button.xml
+SHA1-Digest: WIKkW2AvrzSaGkcyCW+KschUaGA=
+
